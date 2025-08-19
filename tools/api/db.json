@@ -1,0 +1,145 @@
+{
+  "events": [
+    {
+      "id": "2",
+      "name": "Flutter Meetup",
+      "date": "2025-10-05",
+      "type": "meetup",
+      "location": "Floripa"
+    },
+    {
+      "id": "a714",
+      "name": "reuniao",
+      "type": "Online",
+      "date": "2025-08-19"
+    },
+    {
+      "id": "54e4",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "672d",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "ef70",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "c677",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "7888",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "189f",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "6bd3",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "be20",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "3a81",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "2d3f",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "8436",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "fb18",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "1e2f",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "ff91",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "10ba",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "7bcd",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "31bb",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "edd7",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "be86",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    },
+    {
+      "id": "bca1",
+      "name": "Novo",
+      "type": "Meetup",
+      "date": "2025-09-20"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "d2d8",
+      "eventId": null,
+      "email": "demo@user.com",
+      "createdAt": "2025-08-19T00:13:07.265982"
+    }
+  ]
+}
